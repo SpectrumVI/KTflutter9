@@ -1,4 +1,4 @@
-# Flutter Clean Architecture + MVVM (Elementary)
+# Flutter Clean Architecture + MVVM
 
 - `data`, `domain`, `presentation`
 - `elementary`
